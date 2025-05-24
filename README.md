@@ -1,6 +1,6 @@
 # AI-Powered ATS Resume Analyzer
 
-A modern web application that helps job seekers optimize their resumes for ATS (Applicant Tracking Systems) using AI-powered analysis.
+The ATS-System is an AI-powered web application that helps job seekers optimize their resumes for Applicant Tracking Systems. It analyzes resumes, checks their compatibility with job descriptions, and provides actionable feedback to improve their chances of passing ATS filters. The system supports resume uploads, offers ATS compatibility scoring, and delivers detailed suggestions for enhancing resume quality, ensuring better alignment with job-specific requirements.
 
 ## Features
 
