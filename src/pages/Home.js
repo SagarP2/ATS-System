@@ -1,7 +1,6 @@
 import React from "react";
 import HeroSection from "../components/HeroSection";
 import PricingPlans from "../components/PricingPlans";
-import BlogInsights from "../components/BlogInsights";
 import HowitWorks from "../components/HowItWorks";
 import TrustedLogos from "../components/TrustedLogos";
 import FinalCTA from "../components/FinalCTA";

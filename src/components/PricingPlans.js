@@ -13,8 +13,7 @@ const PricingPlans = () => {
   const handleGetStarted = async (planType) => {
     setIsLoading(true);
     try {
-      // In a real app, you would handle the subscription process here
-      // For now, we'll just navigate to the upload page
+     
       await new Promise(resolve => setTimeout(resolve, 500));
       navigate('/upload');
     } catch (error) {

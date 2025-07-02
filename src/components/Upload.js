@@ -33,7 +33,7 @@ const UploadComponent = () => {
     if (!file) return;
     
     const validTypes = ['application/pdf', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'];
-    const maxSize = 5 * 1024 * 1024; // 5MB
+    const maxSize = 5 * 1024 * 1024; 
 
     if (!validTypes.includes(file.type)) {
       setError('Please upload a PDF or DOCX file');

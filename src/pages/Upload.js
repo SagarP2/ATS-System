@@ -11,7 +11,6 @@ const pageVariants = {
 };
 
 const Upload = () => {
-  // Smooth scroll behavior for browsers that support it
   React.useEffect(() => {
     // Check if the browser supports scroll behavior
     if ('scrollBehavior' in document.documentElement.style) {
